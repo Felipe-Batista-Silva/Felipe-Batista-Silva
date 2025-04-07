@@ -32,7 +32,7 @@ Profissional de TI com foco em redes de computadores e infraestrutura, atualment
 - [x] **Linux Essentials**
 
 ## 🌐 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-batista-da-silva-analista-de-suporte/ )
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-Batista-Silva)
 [![DIO](https://img.shields.io/badge/DIO-000000?style=for-the-badge)](https://www.dio.me/users/felipelinux)
 
